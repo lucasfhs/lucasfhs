@@ -21,7 +21,7 @@ Here are some of my highlighted projects:
    - [Link to Project](project_link)
 
 ## How to Reach Me 📫
-If you would like to collaborate on a project or just chat, feel free to get in touch:
+
 - Email: lucashfsdev@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lucashfs/)
 
