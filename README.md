@@ -11,14 +11,8 @@ Hello! I'm a Computer Engineering student passionate about web development and p
 ## Key Projects 🌟
 Here are some of my highlighted projects:
 
-1. **Project 1**: Brief description of the project and technologies used.
-   - [Link to Project](project_link)
-
-2. **Project 2**: Brief description of the project and technologies used.
-   - [Link to Project](project_link)
-
-3. **Project 3**: Brief description of the project and technologies used.
-   - [Link to Project](project_link)
+1. **Pokemon-Sprites-App**: Vue 2x project.
+   - [Link to Project](https://github.com/lucasfhs/pokemon-sprites-app)
 
 ## How to Reach Me 📫
 
